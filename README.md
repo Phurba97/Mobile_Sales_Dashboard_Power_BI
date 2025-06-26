@@ -1,6 +1,13 @@
 # Mobile_Sales_Dashboard_Power_BI
+
 🗂 Overview
 This Power BI dashboard project demonstrates a full end-to-end data analysis workflow, starting from raw data ingestion to building an interactive and responsive sales dashboard. The dataset used relates to mobile sales performance and customer ratings.
+![Mobile sales Dashboard1](https://github.com/user-attachments/assets/378bd90b-746a-49ba-9b75-e82b9d2cd956)
+
+![SamePeriodLastYear](https://github.com/user-attachments/assets/f6cb5687-2c38-4cf8-b291-51effe11adfe)
+![MTD Report](https://github.com/user-attachments/assets/68a4b3f1-cc3b-4730-8027-b618ed8e0840)
+
+
 
 🔄 Data Preparation & Transformation
 Initial Upload & Data Assessment
